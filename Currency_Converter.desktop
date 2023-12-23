@@ -1,0 +1,11 @@
+#Only an Example-Tailor this to show your own image for the Application as well as the path to your script.
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=python3 /path/to/app.py
+Name=Currency Converter
+Comment=Convert currencies easily
+Icon=/path/to/icon.png
+Categories=Utility;
